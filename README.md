@@ -1,3 +1,5 @@
+Just a fork of react-media-recorder with `wav` fixed
+
 # react-media-recorder :o2: :video_camera: :microphone: :computer:
 
 `react-media-recorder` is a fully typed react component with render prop, or a react hook, that can be used to:
